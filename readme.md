@@ -15,5 +15,12 @@
 * git branch -m main    changing branch name, last word "main" is new name
 
 * git commit  commit changes / alternative git commit -m and message written with "  " 
+* git commit -m "name of the commit"
+
+      *__note__* create repository on github
+
+* or push an existing repository on github. copy the code and paste to terminal on VScode
+
+* git push -u  pushing the code
 
 
