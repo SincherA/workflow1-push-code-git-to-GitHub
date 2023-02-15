@@ -30,3 +30,8 @@
    3rd git commit -m "name of the commit"
    4th git push to load code to github
    
+
+to download from GitHub
+* click code
+* copy link
+* command git clone and link
