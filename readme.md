@@ -27,4 +27,6 @@
    **3 steps to upload code to github**
    1st git add .
    2nd git status
-   3rd git push
+   3rd git commit -m "name of the commit"
+   4th git push to load code to github
+   
