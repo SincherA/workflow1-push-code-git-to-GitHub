@@ -23,4 +23,8 @@
 
 * git push -u  pushing the code
 
-
+# VERY IMPORTANT
+   **3 steps to upload code to github**
+   1st git add .
+   2nd git status
+   3rd git push
